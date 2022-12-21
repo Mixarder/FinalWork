@@ -1,0 +1,15 @@
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/bin/Debug/net7.0/ProverochnayaRabota
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/bin/Debug/net7.0/ProverochnayaRabota.deps.json
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/bin/Debug/net7.0/ProverochnayaRabota.runtimeconfig.json
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/bin/Debug/net7.0/ProverochnayaRabota.dll
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/bin/Debug/net7.0/ProverochnayaRabota.pdb
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.csproj.AssemblyReference.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.AssemblyInfoInputs.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.AssemblyInfo.cs
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.csproj.CoreCompileInputs.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.dll
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/refint/ProverochnayaRabota.dll
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.pdb
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ProverochnayaRabota.genruntimeconfig.cache
+/Users/Mike/Documents/Learning QA/ДЗ/C#/itogiBloka/ProverochnayaRabota/obj/Debug/net7.0/ref/ProverochnayaRabota.dll

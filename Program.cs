@@ -1,30 +1,11 @@
-﻿string number = ReadStr("Введите символы через запятую: ");
-int length = number.Length;
-string[] a = new string[0];
-string[] baseArray = GetArrayFromString(number);
- 
- void methodArray (string [] array){
-     string[] newarr = new string[array.Length];
-     for (int i=0; i<array.Length; i++){      
-        if(array[i].Length<=3){
-        newarr[i]=array[i];;
-        Console.WriteLine(newarr[i]); 
-        }
-     }
-        Console.WriteLine(); 
-}
+﻿string text = ReadString("Введите символы через запятую: ");
+string[] baseArray = GetArrayFromString(text);
 
-
-void PrintArray(string[] array)
+string ReadString(string message)
 {
-    for (int i = 0; i < array.Length; i++)
-    {
-        Console.Write($"{array[i]} ");
-    }
-    Console.WriteLine();
+    Console.Write(message);
+    return Convert.ToString(Console.ReadLine());
 }
-
-
 
 string[] GetArrayFromString(string stringArray)
 {
@@ -35,15 +16,22 @@ string[] GetArrayFromString(string stringArray)
     {
         res[i] = Convert.ToString(nums[i]);
     }
-         
+
     return res;
 }
 
-string ReadStr(string message)
+void methodNewArray(string[] array)
 {
-    Console.Write(message);
-    return Convert.ToString(Console.ReadLine());
+    string[] newarr = new string[array.Length];
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i].Length <= 3)
+        {
+            newarr[i] = array[i]; ;
+            Console.WriteLine(newarr[i]);
+        }
+    }
+    Console.WriteLine();
 }
+methodNewArray(baseArray);
 
-methodArray(baseArray);
-PrintArray(a);
